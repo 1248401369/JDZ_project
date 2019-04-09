@@ -24,7 +24,7 @@ class AIV_JDZ : public QMainWindow
 public:
 	AIV_JDZ(QWidget *parent = Q_NULLPTR);
 private:
-	int gpgPara[13];			//gpg参数
+	int gpgPara[13];			//gpg参数，你好
 	int cbgPara[12];			//cbg参数
 	int ppgPara[13];
 	float ppgPara_OPS;
